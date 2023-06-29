@@ -16,4 +16,9 @@ div{
 }
 h1{
 	text-align: center;
+	background: linear-gradient(to left top, cyan, red);
+	color: white;
+}
+p{
+	font-family: cursive;
 }
