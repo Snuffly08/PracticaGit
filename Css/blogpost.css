@@ -1,0 +1,19 @@
+body{
+	padding: 0;
+	margin: 0;
+	background: black;
+	box-sizing: border-box;
+}
+div{
+	background: white;
+	border-radius: 10px;
+	margin: auto;
+	margin-top: 10px;
+	width: 60vw;
+	height: 40vh;
+	padding: 15px;
+	box-sizing: border-box;
+}
+h1{
+	text-align: center;
+}
