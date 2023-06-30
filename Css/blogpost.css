@@ -17,7 +17,6 @@ div{
 h1{
 	text-align: center;
 	background: linear-gradient(to left top, cyan, red);
-<<<<<<< HEAD
 	color: white;
 }
 p{
@@ -28,5 +27,4 @@ img{
 	height: 100px;
 	width: 100px;
 	margin-right: 10px;
->>>>>>> development
 }
