@@ -1,3 +1,5 @@
 Aqui en lugar de una historia, haremos una practica del comando git ribase xd.
 
 Master 1
+
+Master 2
