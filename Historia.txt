@@ -1,11 +1,3 @@
 Aqui en lugar de una historia, haremos una practica del comando git ribase xd.
 
-Experimento 1
 
-<<<<<<< HEAD
-Master 1
-=======
-Experimento 2
-
-Master 1
->>>>>>> b6b0fd3 (Exp 2)
